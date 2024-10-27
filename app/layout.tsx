@@ -51,7 +51,7 @@ const workSans = localFont({
 export const metadata: Metadata = {
   title: "YC Directory",
   description:
-    "A  platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other pitches, and gain exposure.",
+    "Ssubmit startup ideas, browse other pitches, and gain exposure.",
 };
 
 export default function RootLayout({
