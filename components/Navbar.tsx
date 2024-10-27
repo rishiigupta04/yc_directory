@@ -38,7 +38,12 @@ const Navbar = async () => {
                 await signIn("google");
               }}
             >
-              <button type="submit">Login</button>
+              <button
+                className="px-5 py-2 bg-[#EE2B69] font-semibold text-zinc-100 rounded-lg flex items-center gap-2"
+                type="submit"
+              >
+                Login
+              </button>
             </form>
           )}
         </div>
